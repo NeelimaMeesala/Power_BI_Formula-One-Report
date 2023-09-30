@@ -4,6 +4,12 @@ The dataset used for this project is diverse, encompassing geographical data, da
 The Power BI dashboard created for this project provides insightful visualizations and analysis of the Formula One dataset.
 It includes a range of interactive visualizations, such as line charts, maps, tables, and more, to present race-related information.
 The dashboard is designed to help users explore Formula One race data, track trends over the years, and gain a deeper understanding of the sport's history.
+
+**Dataset Model**                                                                 
+
+The tables and relations:
+![image](https://github.com/NeelimaMeesala/Power_BI_Formula-One-Report/assets/120078544/362eb276-fee3-490d-89ab-326385730a38)
+
 #
 **REPORT**                                                       
 Summary of races, drivers, constructors and events:
